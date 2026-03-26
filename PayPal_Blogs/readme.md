@@ -1,15 +1,7 @@
 Screengrabs of all blogs written by dibyani Das for PayPal's community blog.
 
- Adding blog links here:::
- col1	col2	col4<img width="196" height="17" alt="image" src="https://github.com/user-attachments/assets/cdaf4556-c7c8-4514-a7d4-307bd4858f83" />
+Adding blog links here:::
 
+conversational-ai-e-commerce-experience	[https://developer.paypal.com/community/blog/conversational-ai-e-commerce-experience/]<img width="691" height="17" alt="image" src="https://github.com/user-attachments/assets/f91ba15b-e5b1-4f50-a805-013822f33bff" />
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-|
-| 
-|
-| 
-|
-conversational-ai-e-commerce-experience : [https://developer.paypal.com/community/blog/conversational-ai-e-commerce-experience/]
 
